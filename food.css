@@ -1,0 +1,32 @@
+
+.header{
+    background-image: url(https://i0.wp.com/www.india-briefing.com/news/wp-content/uploads/2021/11/MicrosoftTeams-image-6.jpg?fit=900%2C506&ssl=1);
+    object-position: center;
+    background-size: cover;
+    height: 100vh;
+
+}
+.socialicons{
+    display: flex;
+    justify-content:space-around;
+}
+.footernav{
+     display: flex;
+     justify-content:space-around;
+    
+    
+     
+}
+.footernav li{
+    list-style:none;
+}
+.footernav a{
+    text-decoration:none;
+}
+.footcontainer{
+    background-color: black;
+    border-radius: 10px;
+}
+
+
+
